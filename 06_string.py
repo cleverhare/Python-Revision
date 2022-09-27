@@ -1,13 +1,13 @@
-# # a = 34 
+a = 34 
 
 
 name = "soumya"
-# # print(type(a)) #It will print int 
-# # print(type(name)) #It will print string
+# print(type(a)) #It will print int 
+# print(type(name)) #It will print string
 
-# greeting = "Good Morning"
+greeting = "Good Morning"
 # # concatinating two strings
-# print(greeting+ ' '+name) #to add the strings 
+print(greeting+ ' '+name) #to add the strings 
 
 print(name[0]) #it will return s as this is the first char of the name string 
 # Note as the the lenght of the name string is 6  so it can be printed to length -1 
