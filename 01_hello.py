@@ -1,0 +1,1 @@
+print("Hello World") #This peice of code is to print hello world on the terminal
